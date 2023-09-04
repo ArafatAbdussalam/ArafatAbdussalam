@@ -11,7 +11,7 @@ I am also an Open-Source contributor, a technical writer & a member of the CNCF 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ArafatAbdussalam&theme=highcontrast&show_icons=true&count_private=true)
 
 - 🔭 I’m currently working on ... my consistency
-- 🌱 I’m currently learning ... NodeJs, DevOps
+- 🌱 I’m currently learning ... DSA, NodeJs, DevOps
 - 👯 I’m looking to collaborate on ... open-source projects
 - 🤔 I’m looking for help with ... DevOps
 - 💬 Ask me about ... technical writing
