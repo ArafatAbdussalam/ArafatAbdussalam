@@ -1,7 +1,7 @@
 ### Hi there 👋
 ------------------
 
-I am Arafat Abdussalam, A Software Engineer with interest in building web applications using Front-end technologies and NodeJs, gradually on the track of learning DevOps & SRE.
+I am Arafat Abdussalam, A Software Engineer with interest in building web applications using Front-end technologies and NodeJs, gradually on the track of learning DevOps - CI/CD.
 
 I am also an Open-Source contributor, a technical writer & a member of the CNCF community. Hey! the goal is to be consistent.
 
