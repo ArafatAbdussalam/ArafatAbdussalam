@@ -8,7 +8,7 @@ I am also an Open-Source contributor, a technical writer & a member of the CNCF 
 ---------------------
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ArafatAbdussalam&theme=highcontrast&show_icons=true&count_private=true)
+[![ArafatAbdussalam](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatabdussalam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)](https://github.com/arafatabdussalam/arafatabdussalam/)
 
 - 🔭 I’m currently working on ... my consistency
 - 🌱 I’m currently learning ... DSA, NodeJs, DevOps
