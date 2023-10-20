@@ -3,7 +3,7 @@
 
 I am Arafat Abdussalam, A Software Engineer with interest in building web applications using Front-end technologies and NodeJs, gradually on the track of learning DevOps - CI/CD.
 
-I am also an open-source contributor, a technical writer & a member of the CNCF and Wagtail community. Hey! the goal is to be consistent.
+I am also an open-source contributor, a technical writer & a member-contributor of the CNCF and Wagtail community. Hey! the goal is to be consistent.
 
 ---------------------
 
