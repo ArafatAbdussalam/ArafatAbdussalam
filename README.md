@@ -9,8 +9,8 @@ My name is Arafat Abdussalam. I am a Developer Relations & Open Source Program M
 
 
 ## Software Projects
-- Design system app | [GitHub]() | [website]()
-- QR code generator | [GitHub]() | [Website]() 
+- Design system app | [GitHub](https://github.com/ArafatAbdussalam/nextjs-design-system)  | [website]()
+- QR code generator | [GitHub](https://github.com/ArafatAbdussalam/QR-Code-Generator) | [Website](https://my-qr-code-app.netlify.app/) 
   
 <!--
 **ArafatAbdussalam/arafatabdussalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
