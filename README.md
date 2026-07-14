@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is Arafat Abdussalam. I am a Developer Relations & Open Source Program Manager. I build software applications with client-side web technologies.
+My name is Arafat Abdussalam. I am a Developer Relations & Open Source Program Manager. I build software applications with client-side web technologies, and docs-as-code tools.
 
 ## Technical Content 
 - [Building design system with Storybook and Next.js](https://strapi.io/blog/building-a-design-system-with-storybook-and-nextjs)
