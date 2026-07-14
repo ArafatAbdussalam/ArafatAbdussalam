@@ -2,7 +2,7 @@
 
 My name is Arafat Abdussalam. I am a Developer Relations & Open Source Program Manager. I build software applications with client-side web technologies.
 
-## Technical Content Strategy 
+## Technical Content 
 - [Building design system with Storybook and Next.js](https://strapi.io/blog/building-a-design-system-with-storybook-and-nextjs)
 - [Next.js unit testing and end-to-end testing with Vitest and Playwright](https://strapi.io/blog/nextjs-testing-guide-unit-and-e2e-tests-with-vitest-and-playwright)
 - [Web performance optimisation in Next.js](https://strapi.io/blog/web-performance-optimization-in-nextjs)
