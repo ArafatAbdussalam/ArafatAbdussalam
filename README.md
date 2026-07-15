@@ -1,6 +1,13 @@
 ## Hello! 👋
 
-My name is Arafat Abdussalam. I am a Developer Relations & Open Source Program Manager. I build software applications with client-side web technologies and docs-as-code tools.
+My name is Arafat Abdussalam. I am a Developer Relations & Open Source Program Manager. 
+
+- I build software applications with client-side web technologies and docs-as-code tools.
+- I enhance developer experience through developer relations practices that drive product awareness, adoption, and retention.  
+- I implement open source management practices and operations, in alignment with Open Source Program Offices (OSPOs).
+
+## Skills
+Open Source Management and Strategy | Technical Content Strategy | Software Development | Community Management | Growth Marketing 
 
 ## Technical Content 
 - [Building design system with Storybook and Next.js](https://strapi.io/blog/building-a-design-system-with-storybook-and-nextjs)
