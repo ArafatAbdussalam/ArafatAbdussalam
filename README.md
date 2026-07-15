@@ -21,8 +21,8 @@ Software development | Open source management and strategy | Technical content s
 - QR code generator | [GitHub](https://github.com/ArafatAbdussalam/QR-Code-Generator) | [Website](https://my-qr-code-app.netlify.app/) 
 - Docs infra | [in progress]()
 
-## Open Source Training 
-- GitHub Projects | [engage](https://github.com/ArafatAbdussalam/open-source-training)
+## Open Source Community Engagement 
+- Software development training | [engage](https://github.com/ArafatAbdussalam/open-source-training)
 <!--
 **ArafatAbdussalam/arafatabdussalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
