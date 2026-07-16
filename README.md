@@ -12,6 +12,7 @@ Software development | Open source management and strategy | Technical content s
 
 ## Technical Content 
 - [Building design system with Storybook and Next.js](https://strapi.io/blog/building-a-design-system-with-storybook-and-nextjs)
+- [The hidden costs of having zero developer relations team](https://open.substack.com/pub/theproductspike/p/the-hidden-costs-of-zero-developer?r=4asjso&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - [Next.js unit testing and end-to-end testing with Vitest and Playwright](https://strapi.io/blog/nextjs-testing-guide-unit-and-e2e-tests-with-vitest-and-playwright)
 - [Web performance optimisation in Next.js](https://strapi.io/blog/web-performance-optimization-in-nextjs)
 - [Zero Knowledge Proof (ZKP) cryptographic technique](https://m.youtube.com/watch?v=ZnvsPeDdVp0)
