@@ -43,6 +43,7 @@ I plan on training software development and markdown skills.
   </ul>
 </details>
 
-## Developer Events Engagement 
+## Developer Conferences Engagement 
 
 I speak at and engage with developers at developer conferences.
+ 
