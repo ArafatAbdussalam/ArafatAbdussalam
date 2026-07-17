@@ -23,13 +23,13 @@ Software development | Open source management and strategy | Technical content s
   This segment is for my speaking engagement about open source practices for beginners.
   <br/>
   <ul>
-    <li><a href=https://github.com/ArafatAbdussalam/open-source-training
-  target="_blank" rel="noopener noreferrer">CHAOSS Africa: Teaching open source to university students</a></li>
+    <li><a https://www.linkedin.com/posts/arafat-abdussalam_gdgocunilorin-careerfest-opensource-ugcPost-7472981682711777280-zzW3/
+  target="_blank" rel="noopener noreferrer">Teaching open source to university students</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Training/summary>
+<summary>Training</summary>
 <br/>
 I plan on training software development and markdown skills to a cohort of beginner developers.
 <br/>
