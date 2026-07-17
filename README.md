@@ -5,7 +5,8 @@ My name is Arafat Abdussalam. I am a Developer Relations & Open Source Program M
 My work is focused on:
 - implementing open source management practices and operations, in alignment with Open Source Program Offices (OSPOs).
 - enhancing developer experience through developer relations practices that drive product awareness, adoption, and retention.  
-- developing software applications with client-side web technologies and docs-as-code tools.
+- developing software applications with client-side web technologies.
+ <!-- and docs-as-code tools. -->
 
 ## Skills
 Software development | Open source management and strategy | Technical content strategy | Community management | Growth marketing  
@@ -17,9 +18,20 @@ Software development | Open source management and strategy | Technical content s
 
 ## Open Source Community Engagement 
 <details>
-<summary>Training</summary>
+  <summary>Speaking</summary>
+  <br/>
+  This segment is for my speaking engagement about open source practices for beginners.
+  <br/>
+  <ul>
+    <li><a href=https://github.com/ArafatAbdussalam/open-source-training
+  target="_blank" rel="noopener noreferrer">CHAOSS Africa: Teaching open source to university students</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Training/summary>
 <br/>
-I plan on training software development and markdown skills.
+I plan on training software development and markdown skills to a cohort of beginner developers.
 <br/>
 <ul>
   <li><a href=https://github.com/ArafatAbdussalam/open-source-training
