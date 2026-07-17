@@ -42,3 +42,7 @@ I plan on training software development and markdown skills.
   target="_blank" rel="noopener noreferrer">Survey form with HTML & CSS</a></li>
   </ul>
 </details>
+
+## Developer Events Engagement 
+I educate and engage with the developer audience at developer events
+-
