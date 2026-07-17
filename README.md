@@ -44,5 +44,5 @@ I plan on training software development and markdown skills.
 </details>
 
 ## Developer Events Engagement 
-I educate and engage with the developer audience at developer events
--
+
+I speak at and engage with developers at developer conferences.
