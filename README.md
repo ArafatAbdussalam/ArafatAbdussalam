@@ -26,6 +26,7 @@ I plan on training software development and markdown skills.
   target="_blank" rel="noopener noreferrer">Markdown & software development</a></li>
 </ul>
 </details>
+
 <details>
   <summary>Demo apps</summary>
   <br/>
@@ -36,8 +37,7 @@ I plan on training software development and markdown skills.
   target="_blank" rel="noopener noreferrer">Design system with Next.js and Storybook</a></li>
     <li><a href=https://github.com/ArafatAbdussalam/QR-Code-Generator
   target="_blank" rel="noopener noreferrer">QR code generator with React.js</a></li>
-    <li><a href=https://github.com/ArafatAbdussalam/clic-calc
-  target="_blank" rel="noopener noreferrer">Calculator app with plain JavaScript</a></li>
+    <li><a href=https://github.com/ArafatAbdussalam/clic-pal target="_blank" rel="noopener noreferrer">Calculator app with plain JavaScript</a></li>
     <li><a href=https://github.com/ArafatAbdussalam/fcc-survey-form
   target="_blank" rel="noopener noreferrer">Survey form with HTML & CSS</a></li>
   </ul>
