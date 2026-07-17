@@ -23,7 +23,7 @@ Software development | Open source management and strategy | Technical content s
   This segment is for my speaking engagement about open source practices for beginners.
   <br/>
   <ul>
-    <li><a https://www.linkedin.com/posts/arafat-abdussalam_gdgocunilorin-careerfest-opensource-ugcPost-7472981682711777280-zzW3/
+    <li><a href=https://www.linkedin.com/posts/arafat-abdussalam_gdgocunilorin-careerfest-opensource-ugcPost-7472981682711777280-zzW3/
   target="_blank" rel="noopener noreferrer">Teaching open source to university students</a></li>
   </ul>
 </details>
