@@ -36,6 +36,6 @@ I plan on training software development and markdown skills.
     <li><a href=https://github.com/ArafatAbdussalam/nextjs-design-system
   target="_blank" rel="noopener noreferrer">Design system with Next.js and Storybook</a></li>
     <li><a href=https://github.com/ArafatAbdussalam/QR-Code-Generator
-  target="_blank" rel="noopener noreferrer">QR code generator</a></li>
+  target="_blank" rel="noopener noreferrer">QR code generator with React.js</a></li>
   </ul>
 </details>
