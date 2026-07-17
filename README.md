@@ -23,18 +23,14 @@ Software development | Open source management and strategy | Technical content s
 - Docs infra | [in progress]()
 
 ## Open Source Community Engagement 
-- Software development training | [engage](https://github.com/ArafatAbdussalam/open-source-training)
-<!--
-**ArafatAbdussalam/arafatabdussalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<br/>
+<summary>Training</summary>
+<br/>
+I plan on training software development and markdown skill.
+<br/>
+<ul>
+  <li><a href=https://github.com/ArafatAbdussalam/open-source-training
+  target="_blank" rel="noopener noreferrer">Markdown & software development</a></li>
+</ul>
+</details>
