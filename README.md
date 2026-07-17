@@ -16,12 +16,6 @@ Software development | Open source management and strategy | Technical content s
 - [Next.js unit testing and end-to-end testing with Vitest and Playwright](https://strapi.io/blog/nextjs-testing-guide-unit-and-e2e-tests-with-vitest-and-playwright)
 - [Web performance optimisation in Next.js](https://strapi.io/blog/web-performance-optimization-in-nextjs)
 
-
-## Software Projects
-- Design system app | [GitHub](https://github.com/ArafatAbdussalam/nextjs-design-system)  | [website]()
-- QR code generator | [GitHub](https://github.com/ArafatAbdussalam/QR-Code-Generator) | [Website](https://my-qr-code-app.netlify.app/) 
-- Docs infra | [in progress]()
-
 ## Open Source Community Engagement 
 <details>
 <summary>Training</summary>
@@ -32,4 +26,16 @@ I plan on training software development and markdown skills.
   <li><a href=https://github.com/ArafatAbdussalam/open-source-training
   target="_blank" rel="noopener noreferrer">Markdown & software development</a></li>
 </ul>
+</details>
+<details>
+  <summary>Demo apps</summary>
+  <br/>
+  Developers are permitted to study and modify the following software projects for their own learning purpose.
+  <br/>
+  <ul>
+    <li><a href=https://github.com/ArafatAbdussalam/nextjs-design-system
+  target="_blank" rel="noopener noreferrer">Design system with Next.js and Storybook</a></li>
+    <li><a href=https://github.com/ArafatAbdussalam/QR-Code-Generator
+  target="_blank" rel="noopener noreferrer">QR code generator</a></li>
+  </ul>
 </details>
