@@ -24,10 +24,9 @@ Software development | Open source management and strategy | Technical content s
 
 ## Open Source Community Engagement 
 <details>
-<br/>
 <summary>Training</summary>
 <br/>
-I plan on training software development and markdown skill.
+I plan on training software development and markdown skills.
 <br/>
 <ul>
   <li><a href=https://github.com/ArafatAbdussalam/open-source-training
