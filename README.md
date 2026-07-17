@@ -12,7 +12,6 @@ Software development | Open source management and strategy | Technical content s
 
 ## Technical Content 
 - [Building design system with Storybook and Next.js](https://strapi.io/blog/building-a-design-system-with-storybook-and-nextjs)
-- [The hidden costs of having zero developer relations team](https://open.substack.com/pub/theproductspike/p/the-hidden-costs-of-zero-developer?r=4asjso&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - [Next.js unit testing and end-to-end testing with Vitest and Playwright](https://strapi.io/blog/nextjs-testing-guide-unit-and-e2e-tests-with-vitest-and-playwright)
 - [Web performance optimisation in Next.js](https://strapi.io/blog/web-performance-optimization-in-nextjs)
 
@@ -30,12 +29,16 @@ I plan on training software development and markdown skills.
 <details>
   <summary>Demo apps</summary>
   <br/>
-  Developers are permitted to study and modify the following software projects for their own learning purpose.
+  Developers are granted the choice to study and modify the following open source projects for their own learning purpose:
   <br/>
   <ul>
     <li><a href=https://github.com/ArafatAbdussalam/nextjs-design-system
   target="_blank" rel="noopener noreferrer">Design system with Next.js and Storybook</a></li>
     <li><a href=https://github.com/ArafatAbdussalam/QR-Code-Generator
   target="_blank" rel="noopener noreferrer">QR code generator with React.js</a></li>
+    <li><a href=https://github.com/ArafatAbdussalam/clic-calc
+  target="_blank" rel="noopener noreferrer">Calculator app with plain JavaScript</a></li>
+    <li><a href=https://github.com/ArafatAbdussalam/fcc-survey-form
+  target="_blank" rel="noopener noreferrer">Survey form with HTML & CSS</a></li>
   </ul>
 </details>
