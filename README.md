@@ -21,9 +21,21 @@ Software development | Open source management and strategy | Technical content s
 
 ## Open Source Community Engagement 
 <details>
+ <summary>Community building </summary>
+ <!--
+ <br/>
+  I organise and lead the following opem source communities
+ <br/>
+  -->
+ <ul>
+  <li></li>
+ </ul>
+</details>
+
+<details>
   <summary>Speaking</summary>
   <br/>
-  This segment is for my speaking engagement about open source practices for beginners.
+  This segment is for my speaking engagement on open source practices for beginners.
   <br/>
   <ul>
     <li><a href=https://www.linkedin.com/posts/arafat-abdussalam_gdgocunilorin-careerfest-opensource-ugcPost-7472981682711777280-zzW3/
