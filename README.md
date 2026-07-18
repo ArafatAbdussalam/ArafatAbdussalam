@@ -22,7 +22,7 @@ Software development | Open source management and strategy | Technical content s
 ## Developer Community Engagement 
 
 <details>
-  <summary>Open source demo apps for learning</summary>
+  <summary>Open source demo apps for learning purpose</summary>
   <br/>
   Developers are granted the choice to study and modify the following open source projects for their own learning purpose:
   <br/>
