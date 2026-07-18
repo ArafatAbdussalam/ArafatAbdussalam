@@ -24,7 +24,7 @@ Software development | Open source management and strategy | Technical content s
  <summary>Community building </summary>
  <!--
  <br/>
-  I organise and lead the following opem source communities
+  I organise and lead the following opem source communities//facilitate workshops
  <br/>
   -->
  <ul>
