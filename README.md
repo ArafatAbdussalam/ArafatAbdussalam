@@ -75,5 +75,5 @@ I plan on training software development and markdown skills to a cohort of begin
 
 <!--
 ## Notices
--->
 This repository is ...
+-->
