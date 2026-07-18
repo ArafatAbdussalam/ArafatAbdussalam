@@ -11,16 +11,14 @@ My work is focused on:
 ## Skills
 Software development | Open source management and strategy | Technical content strategy | Community management | Growth marketing  
 
-## Certifications 
-- [Open source license compliance management](https://www.linkedin.com/posts/arafat-abdussalam_sboms-euopensourceweek26-fosdem26-ugcPost-7477379440289878016-c2wr/) | The Linux Foundation 
-
 ## Highlighted Technical Content 
 - [Building design system with Storybook and Next.js](https://strapi.io/blog/building-a-design-system-with-storybook-and-nextjs)
 - [Next.js unit testing and end-to-end testing with Vitest and Playwright](https://strapi.io/blog/nextjs-testing-guide-unit-and-e2e-tests-with-vitest-and-playwright)
 - [Web performance optimisation in Next.js](https://strapi.io/blog/web-performance-optimization-in-nextjs)
 
 ## Developer Community Engagement 
-
+<!-- reusable linked list
+<li><a href= target="_blank" rel="noopener noreferrer"></a></li> -->
 <details>
   <summary>Open source demo apps for learning purpose</summary>
   <br/>
@@ -37,17 +35,17 @@ Software development | Open source management and strategy | Technical content s
 </ul>
 </details>
 
+<!--
 <details>
  <summary>Community building</summary>
- <!--
  <br/>
   I organise and lead the following developer communities//facilitate workshops
  <br/>
-  -->
  <ul>
   <li></li>
  </ul>
 </details>
+-->
 
 <details>
 <summary>Open source training</summary>
