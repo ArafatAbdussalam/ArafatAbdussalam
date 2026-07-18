@@ -19,10 +19,10 @@ Software development | Open source management and strategy | Technical content s
 - [Next.js unit testing and end-to-end testing with Vitest and Playwright](https://strapi.io/blog/nextjs-testing-guide-unit-and-e2e-tests-with-vitest-and-playwright)
 - [Web performance optimisation in Next.js](https://strapi.io/blog/web-performance-optimization-in-nextjs)
 
-## Open Source Community Engagement 
+## Developer Community Engagement 
 
 <details>
-  <summary>Demo apps</summary>
+  <summary>Open source demo apps for learning</summary>
   <br/>
   Developers are granted the choice to study and modify the following open source projects for their own learning purpose:
   <br/>
@@ -41,7 +41,7 @@ Software development | Open source management and strategy | Technical content s
  <summary>Community building</summary>
  <!--
  <br/>
-  I organise and lead the following opem source communities//facilitate workshops
+  I organise and lead the following developer communities//facilitate workshops
  <br/>
   -->
  <ul>
@@ -50,18 +50,7 @@ Software development | Open source management and strategy | Technical content s
 </details>
 
 <details>
-  <summary>Speaking</summary>
-  <br/>
-  This segment is for my speaking engagement on open source practices for beginners.
-  <br/>
-  <ul>
-    <li><a href=https://www.linkedin.com/posts/arafat-abdussalam_gdgocunilorin-careerfest-opensource-ugcPost-7472981682711777280-zzW3/
-  target="_blank" rel="noopener noreferrer">Teaching open source to university students</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Training</summary>
+<summary>Open source training</summary>
 <br/>
 I plan on training software development and markdown skills to a cohort of beginner developers.
 <br/>
@@ -71,15 +60,13 @@ I plan on training software development and markdown skills to a cohort of begin
 </ul>
 </details>
 
-
-## Developer Community Engagement 
-
-At developer conferences, I deliver technical presentations and engage with attendees to educate and translate engagement into actionable insights.
-
 <details>
-<summary>Presentations</summary>
+<summary>Speaking</summary>
  <br/>
  <ul>
   <li>The empathy of developer experience engineering</li>
+  <li><a href=https://www.linkedin.com/posts/arafat-abdussalam_gdgocunilorin-careerfest-opensource-ugcPost-7472981682711777280-zzW3/
+  target="_blank" rel="noopener noreferrer">Teaching open source to university students</a></li>
+  
  </ul>
 </details>
