@@ -20,8 +20,25 @@ Software development | Open source management and strategy | Technical content s
 - [Web performance optimisation in Next.js](https://strapi.io/blog/web-performance-optimization-in-nextjs)
 
 ## Open Source Community Engagement 
+
 <details>
- <summary>Community building </summary>
+  <summary>Demo apps</summary>
+  <br/>
+  Developers are granted the choice to study and modify the following open source projects for their own learning purpose:
+  <br/>
+  <ul>
+    <li><a href=https://github.com/ArafatAbdussalam/nextjs-design-system
+  target="_blank" rel="noopener noreferrer">Design system with Next.js and Storybook</a></li>
+    <li><a href=https://github.com/ArafatAbdussalam/QR-Code-Generator
+  target="_blank" rel="noopener noreferrer">QR code generator with React.js</a></li>
+    <li><a href=https://github.com/ArafatAbdussalam/clic-pal target="_blank" rel="noopener noreferrer">Calculator app with plain JavaScript</a></li>
+    <li><a href=https://github.com/ArafatAbdussalam/fcc-survey-form
+  target="_blank" rel="noopener noreferrer">Survey form with HTML & CSS</a></li>
+</ul>
+</details>
+
+<details>
+ <summary>Community building</summary>
  <!--
  <br/>
   I organise and lead the following opem source communities//facilitate workshops
@@ -54,23 +71,15 @@ I plan on training software development and markdown skills to a cohort of begin
 </ul>
 </details>
 
+
+## Developer Community Engagement 
+
+At developer conferences, I deliver technical presentations and engage with attendees to educate and translate engagement into actionable insights.
+
 <details>
-  <summary>Demo apps</summary>
-  <br/>
-  Developers are granted the choice to study and modify the following open source projects for their own learning purpose:
-  <br/>
-  <ul>
-    <li><a href=https://github.com/ArafatAbdussalam/nextjs-design-system
-  target="_blank" rel="noopener noreferrer">Design system with Next.js and Storybook</a></li>
-    <li><a href=https://github.com/ArafatAbdussalam/QR-Code-Generator
-  target="_blank" rel="noopener noreferrer">QR code generator with React.js</a></li>
-    <li><a href=https://github.com/ArafatAbdussalam/clic-pal target="_blank" rel="noopener noreferrer">Calculator app with plain JavaScript</a></li>
-    <li><a href=https://github.com/ArafatAbdussalam/fcc-survey-form
-  target="_blank" rel="noopener noreferrer">Survey form with HTML & CSS</a></li>
-  </ul>
+<summary>Presentations</summary>
+ <br/>
+ <ul>
+  <li>The empathy of developer experience engineering</li>
+ </ul>
 </details>
-
-## Developer Conferences Engagement 
-
-I speak at and engage with developers at developer conferences.
- 
