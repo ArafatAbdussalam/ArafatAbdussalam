@@ -12,7 +12,7 @@ My work is focused on:
 Software development | Open source management and strategy | Technical content strategy | Community management | Growth marketing  
 
 ## Certifications 
-- [Open source license compliance management](https://www.linkedin.com/posts/arafat-abdussalam_sboms-euopensourceweek26-fosdem26-ugcPost-7477379440289878016-c2wr/)
+- [Open source license compliance management](https://www.linkedin.com/posts/arafat-abdussalam_sboms-euopensourceweek26-fosdem26-ugcPost-7477379440289878016-c2wr/) | The Linux Foundation 
 
 ## Technical Content 
 - [Building design system with Storybook and Next.js](https://strapi.io/blog/building-a-design-system-with-storybook-and-nextjs)
