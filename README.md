@@ -72,3 +72,8 @@ I plan on training software development and markdown skills to a cohort of begin
 <!-- reusable linked list
 <li><a href= target="_blank" rel="noopener noreferrer"></a></li>
 -->
+
+<!--
+## Notices
+-->
+This repository is ...
