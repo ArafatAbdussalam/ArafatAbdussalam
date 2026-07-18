@@ -62,9 +62,9 @@ I plan on training software development and markdown skills to a cohort of begin
 <summary>Speaking</summary>
  <br/>
  <ul>
-  <li><a href=https://www.linkedin.com/posts/arafat-abdussalam_enhance-open-source-career-progression-with-activity-7472260996372533249-FJmP? target="_blank" rel="noopener noreferrer">Enhance your open source career progression with CHAOSS</a></li>
-  <li><a href=https://www.linkedin.com/posts/arafat-abdussalam_th-empathy-of-developer-experience-engineering-activity-7453769616469889024-jf98? target="_blank" rel="noopener noreferrer">The empathy of developer experience engineering</li>
-<li><a href=https://www.linkedin.com/posts/arafat-abdussalam_accessibility-people-and-digital-experiences-activity-7453773159155212288-4vXQ? target="_blank" rel="noopener noreferrer">Accessibility, people, and digital experiences: What exactly is the playbook?</a></li>
+  <li><a href=https://speakerdeck.com/arafatabdussalam/enhance-open-source-career-progression-with-chaoss-education-courses target="_blank" rel="noopener noreferrer">Enhance your open source career progression with CHAOSS</a></li>
+  <li><a href=https://speakerdeck.com/arafatabdussalam/the-empathy-of-developer-experience-engineering-oscafest-25 target="_blank" rel="noopener noreferrer">The empathy of developer experience engineering</li>
+<li><a href=https://speakerdeck.com/arafatabdussalam/accessibility-people-and-digital-experiences-what-exactly-is-the-playbook-involved target="_blank" rel="noopener noreferrer">Accessibility, people, and digital experiences: What exactly is the playbook?</a></li>
   
  </ul>
 </details>
